@@ -1,25 +1,33 @@
 ---
-title: How to install jekyll
+title: How to Install Jekyll on Windows
 date: 2023-03-21 00:46:00 -400
-categories: [introduction]
+categories: [installations]
 tags: [installation,jekyll]
 ---
 
-1. Download and install a Ruby+Devkit version from https://rubyinstaller.org/downloads/. Use default options for installation.
-2. Run the 
-```powershell 
-ridk install
+This is my rendition of the already easy-to-follow installation process. The complete installation process is [here](https://jekyllrb.com/docs/). I just removed some of the filler.<br>
+<br>
+  
+  
+1. Download and install a [Ruby+Devkit 3.2.1](<https://rubyinstaller.org/downloads/>) or higher. Use default options for installation.
+
+2. Run the `ridk install` step on the last stage of the installation wizard.
+
+3. Open the start menu and search "Start Command Prompt with Ruby" so that changes to the **PATH** changes go into effect. Install Jekyll and Bundler using gem
+```console
+C:\Users\YOUR_NAME> gem install jekyll
 ```
-step on the last stage of the installation wizard. This is needed for installing gems with native extensions. You can find additional information regarding this at https://github.com/oneclick/rubyinstaller2#using-the-installer-on-a-target-system. From the options choose         
-        
-```powershell
-MSYS2 and MINGW development tool chain.
+after it has completed running check it has been properly installed
+```terminal
+C:\Users\YOUR_NAME> jekyll -v
 ```
-3. Open a new command prompt window from the start menu, so that changes to the ```PATH``` environment variable becomes effective. Install Jekyll and Bundler using gem 
-```powershell
-install jekyll bundler
+if sucessful, then run
+```terminal
+C:\Users\YOUR_NAME> gem install bundler
 ```
-4. Check if Jekyll has been installed properly: 
-```powershell
-jekyll -v
+after it has completed running check it has been properly installed
+```terminal
+C:\Users\YOUR_NAME> bundler -v
 ```
+  
+You **must** restart your computer to perform terminal commands through VSCode, or any other text editor, with your updated PATH, such as running your Jekyll website on your local machine.
