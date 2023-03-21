@@ -13,14 +13,14 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Titze's Learning Logs # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: A website containing snippets of my education. Helps me memorize my college course content, and may help somebody else learn theirs. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -29,23 +29,22 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: douglastitze # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Douglas Titze
+  email: douglastitze@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
+    - https://www.linkedin.com/in/douglas-titze
     - https://github.com/username # change to your github homepage
-    # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 
@@ -80,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/D4E03AQFdNnE6DJnD4g/profile-displayphoto-shrink_800_800/0/1665192930840?e=1684972800&v=beta&t=5IvE88ZLNfj6dt2UsbBTVWkKnovEx8bVTDekK5yo2ao
 
 # boolean type, the global switch for TOC in posts.
 toc: true
