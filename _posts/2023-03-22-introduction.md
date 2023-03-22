@@ -12,7 +12,7 @@ My website is a space for me to track my progress and share my experiences as I 
 Additionally, I share my other projects, including professional and school projects, as well as interesting class notes. This allows me to showcase my skills and experiences and reflect on what I have learned and accomplished.
 
 ### My Repository of Knowledge
-My website also serves as a repository of knowledge where I keep track of my coding progress, my projects, and my experience all in one place. This way, I can reinforce what I am learning by creating short blog posts about what I have learned, and have a resource to look back on in the future. I am committed to continuous learning and improvement, and I firmly believe that with persistence and hard work, I can achieve my goal.
+My website also serves as a repository of knowledge where I keep track of my coding progress, my projects, and my experience all in one place. By creating concise blog posts on what I learn, I reinforce my knowledge and have a reference for future use. I am committed to continuous learning and improvement, and I firmly believe that with persistence and hard work, I can achieve my goal.
 
 ### My Goal
 Through sharing my experiences, I hope to inspire others to take action, even if it's just taking small steps towards their goals. I am creating this website not to boast about how amazing I am at solving problems but to face myself with reality and hold myself accountable. By doing so, I can learn from my mistakes, recognize my strengths, and continuously improve.
