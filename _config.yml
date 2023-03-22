@@ -20,7 +20,7 @@ timezone: America/New_York
 
 title: Titze's Learning Logs # the main title
 
-tagline: A website containing snippets of my education. Helps me memorize my college course content, and may help somebody else learn theirs. # it will display as the sub-title
+tagline: A website containing snippets of my education. Building stronger coding skills by reinforcing what I've learned, and helping others do the same. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
