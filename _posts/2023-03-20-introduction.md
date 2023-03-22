@@ -18,4 +18,5 @@ In addition to my daily coding challenge, I will also share my other projects on
 Finally, my website is a repository of knowledge for myself and others. I will keep track of my coding progress, my projects, and my experience all in one place. This way, I can reinforce what I am learning when it comes to coding and have a resource to look back on in the future. I am hoping to be able to look back at this website and be proud of how far I have come.
 
 ### My Goal
+
 Through sharing my experiences, I hope to inspire others to take action, even if it's just taking small steps towards their goals. Although I acknowledge that some may have more experience or knowledge than me, my determination to become an AI developer drives me to work harder. I am committed to continuous learning and improvement, and I firmly believe that with persistence and hard work, I can achieve my goal.
