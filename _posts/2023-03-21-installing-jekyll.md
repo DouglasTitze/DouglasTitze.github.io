@@ -30,4 +30,4 @@ after it has completed running check it has been properly installed
 C:\Users\YOUR_NAME> bundler -v
 ```
   
-You **must** restart your computer to perform terminal commands through VSCode, or any other text editor, with your updated PATH, such as running your Jekyll website on your local machine.
+You **must** restart your computer to perform terminal commands through VSCode, or any other text editor, with your updated PATH, such as running your Jekyll website on your local machine `bundle exec jekyll serve`.
