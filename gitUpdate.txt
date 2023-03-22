@@ -1,0 +1,1 @@
+git checkout gh-pages && git rebase main    //Publish changes from main to website
