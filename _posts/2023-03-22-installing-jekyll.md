@@ -13,18 +13,25 @@ This is my rendition of the already easy-to-follow installation process. The com
 2. Run the `ridk install` step on the last stage of the installation wizard.
 
 3. Open the start menu and search "Start Command Prompt with Ruby" so that changes to the **PATH** changes go into effect. Install Jekyll and Bundler using gem
+
 ```console
 C:\Users\YOUR_NAME> gem install jekyll
 ```
+
 after it has completed running check it has been properly installed
+
 ```terminal
 C:\Users\YOUR_NAME> jekyll -v
 ```
+
 if sucessful, then run
+
 ```terminal
 C:\Users\YOUR_NAME> gem install bundler
 ```
+
 after it has completed running check it has been properly installed
+
 ```terminal
 C:\Users\YOUR_NAME> bundler -v
 ```
