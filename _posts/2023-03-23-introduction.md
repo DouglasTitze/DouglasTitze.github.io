@@ -1,8 +1,8 @@
 ---
 title: What is This Website About?
 date: 2023-03-22 9:00:00 -400
-categories: [Introduction]
-tags: [introduction]
+categories: []
+tags: []
 ---
 
 ## Welcome to My Website
