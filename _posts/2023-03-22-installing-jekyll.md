@@ -5,10 +5,10 @@ categories: [Installations]
 tags: [installation, jekyll]
 ---
 
-This is my rendition of the already easy-to-follow installation process. The complete installation process is [here](https://jekyllrb.com/docs/). I just removed some of the filler.<br>
+This is my rendition of the already easy-to-follow installation process. The complete installation process is [here](https://jekyllrb.com/docs/){:target="_blank"}. I just removed some of the filler.<br>
 <br>
 
-1. Download and install a [Ruby+Devkit 3.2.1](<https://rubyinstaller.org/downloads/>) or higher. Use default options for installation.
+1. Download and install a [Ruby+Devkit 3.2.1](https://rubyinstaller.org/downloads/){:target="_blank"} or higher. Use default options for installation.
 
 2. Run the `ridk install` step on the last stage of the installation wizard.
 
