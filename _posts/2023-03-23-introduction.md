@@ -7,7 +7,7 @@ tags: [introduction]
 
 ### Welcome to My Website
 
-My website is a space for me to track my progress and share my experiences as I work towards becoming an AI developer. One of the main features of my website is my daily coding challenge, where I complete a coding problem every day and share the link, time spent, and code I come up with. By doing so, I hold myself accountable, stay motivated, and assist those who are also on their coding journey.
+This is a space for me to track my progress and share my experiences as I work towards becoming an AI developer. One of the main features of my website is my daily coding challenge, where I complete a coding problem every day and share the link, time spent, and code I come up with. By doing so, I hold myself accountable, stay motivated, and assist those who are also on their coding journey.
 
 ### My Other Projects
 
