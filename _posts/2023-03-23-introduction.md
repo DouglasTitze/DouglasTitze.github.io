@@ -21,6 +21,6 @@ My website also serves as a repository of knowledge where I keep track of my cod
 
 Through sharing my experiences, I hope to inspire others to take action, even if it's just taking small steps towards their goals. I am creating this website not to boast about how amazing I am at solving problems but to face myself with reality and hold myself accountable. By doing so, I can learn from my mistakes, recognize my strengths, and continuously improve.  
 
-## Who Is Douglas Titze?
+## Who Is Douglas Titze
 
 I have a post dedicated to that [here](/about-me/).
