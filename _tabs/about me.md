@@ -6,7 +6,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## Hello And Welcome To My Website!  
+## Hello!
 
 My name is Douglas Titze, and I am currently studying computer science at the University of South Florida.
 In addition to my studies, I am also working as a 3D print lab technician at the university.  
@@ -33,6 +33,6 @@ Thank you for visiting my website, and I hope my experiences and progress can in
 LinkedIn: [https://www.linkedin.com/in/douglas-titze/](https://www.linkedin.com/in/douglas-titze/){:target="_blank"}  
 Email: douglastitze@gmail.com
 
-## What Is This Website About?
+## What Is This Website About
 
 I have a post dedicated to that [here](/posts/introduction/).
