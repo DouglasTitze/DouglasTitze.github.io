@@ -29,7 +29,8 @@ I am excited to receive feedback and learn from others as I grow as an AI develo
 Thank you for visiting my website, and I hope my experiences and progress can inspire you to take action toward your goals.
 
 ## Contact Information
-LinkedIn: https://www.linkedin.com/in/douglas-titze/
+
+LinkedIn: [https://www.linkedin.com/in/douglas-titze/](https://www.linkedin.com/in/douglas-titze/){:target="_blank"}  
 Email: douglastitze@gmail.com
 
 ## What Is This Website About?
