@@ -1,6 +1,6 @@
 ---
 title: How to Install Jekyll on Windows
-date: 2023-03-23 9:10:00 -400
+date: 2023-03-23 00:01:00 -400
 categories: [Installations]
 tags: [installation, jekyll]
 ---
