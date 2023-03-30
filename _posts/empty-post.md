@@ -1,7 +1,7 @@
 ---
 title: Coding Question - QUESTION NAME HERE
 date: 2023-00-00 00:00:00 -400
-categories: [CATEGORIES]
+categories: [Coding Questions, XXXXX]
 tags: [TAGS]
 ---
 
@@ -32,7 +32,7 @@ COMMENTS
 **Algorithm Name -** EXPLAIN
 
 **Visual Examples**  
-[image](LINK HERE){:target="_blank"}
+, [click](LINK_HERE){:target="_blank"} to view  
 
 # Solution Statistics  
 
