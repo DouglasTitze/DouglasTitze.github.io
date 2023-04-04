@@ -7,40 +7,42 @@ tags: [TAGS]
 
 # Links  
 
-Go to the [solution](#solution)  
+Go to my [solution](#solution)  
 Go to the [question](LINK HERE){:target="_blank"} on LeetCode  
 
-# Algorithm Explination
+# My Thoughts  
+
+**What Went Well**  
+ABC...
+
+**What Went Wrong**  
+XYZ...
+
+**What I Learned**  
+I LEARNED...
+
+**How I Can Improve**  
+I CAN...
+
+**Comments**  
+COMMENTS
+
+# Algorithm Description
 
 **Algorithm Name -** EXPLAIN
 
 **Visual Examples**  
 , [click](LINK_HERE){:target="_blank"} to view  
 
-# Data Structure Explination
-
-**Data Structure Name -** EXPLAIN
-
-**Visual Examples**  
-, [click](LINK_HERE){:target="_blank"} to view  
-
 # Solution Statistics  
+
+**Time Spent Coding**  
+TIME
 
 **Time Complexity**  
 O(x) - xxxxx
 
-**Space Complexity**  
-O(x) - xxxx
-
-**Runtime Beats**  
-xx.xx% of other submissions  
-
-**Memory Beats**  
-xx.xx% of other sumbissions  
-
-# Solution  
+	@@ -55,3 +42,5 @@ xx.xx% of other sumbissions
 
 ```python
 ```
-
-# Code BreakDown
