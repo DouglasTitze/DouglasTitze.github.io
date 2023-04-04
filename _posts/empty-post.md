@@ -42,7 +42,16 @@ TIME
 **Time Complexity**  
 O(x) - xxxxx
 
-	@@ -55,3 +42,5 @@ xx.xx% of other sumbissions
+**Space Complexity**  
+O(x) - xxxx
+
+**Runtime Beats**  
+xx.xx% of other submissions  
+
+**Memory Beats**  
+xx.xx% of other sumbissions  
+
+# Solution  
 
 ```python
 ```
