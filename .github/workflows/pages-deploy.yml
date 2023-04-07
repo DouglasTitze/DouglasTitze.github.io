@@ -1,16 +1,10 @@
 name: "Build and Deploy"
 on:
-  push:
-    branches:
-      - main
-      - master
+  workflow_dispatch:
     paths-ignore:
       - .gitignore
       - README.md
       - LICENSE
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
 
 permissions:
   contents: read
