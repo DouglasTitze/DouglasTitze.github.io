@@ -1,5 +1,5 @@
 ---
-layout: archives
+layout: posts by date
 icon: fas fa-archive
-order: 3
+order: 4
 ---
