@@ -13,19 +13,20 @@ Go to the [question](https://leetcode.com/problems/apply-discount-to-prices/desc
 # My Thoughts  
 
 **What Went Well**  
-ABC...
+I was able to complete this questions in a resonable amount of time dispite having issues with edge cases.
 
 **What Went Wrong**  
-XYZ...
+While attempting to solve this question I tried googling for operations to make my solution simpiler but came up empty handed. 
+Fortunately I was able to implement it without the help of external resources.
 
 **What I Learned**  
-I LEARNED...
+I refreshed my memory on string formatting for decimal numbers.
 
 **How I Can Improve**  
-I CAN...
+I can continue to practice using builtin functions and review other submissions to gain a new perspective to approach this problem.
 
 **Comments**  
-COMMENTS
+This challenge was fun, but I felt like it had cheap edge cases and unecisarially dirty data, but overall a nice problem to practice lots of important coding concepts and builtin functions.
 
 # Solution Statistics  
 
@@ -72,7 +73,9 @@ class Solution:
                     num = float(num[1:])            # O(n)
                     num -= (num * discount/100)     # O(1)
 
-                    # Place the new price in the sentence
+                    # Repace the price in the sentence with the new one
+                    # The ":.2f" format makes sure that there is always two decimal
+                    # points of accuracy included when converted into a string
                     sentence[i] = f"${num:.2f}"     # O(1)
                 except:
                     continue
