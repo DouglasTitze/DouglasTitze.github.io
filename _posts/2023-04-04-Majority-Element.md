@@ -2,7 +2,7 @@
 title: Coding Question - Majority Element
 date: 2023-04-04 00:00:00 -400
 categories: [Coding Questions, Easy]
-tags: [array, hash table, sorting, counting]
+tags: [python, array, hash table, sorting, counting]
 ---
 
 # Links  

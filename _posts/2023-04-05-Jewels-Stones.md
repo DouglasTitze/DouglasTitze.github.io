@@ -2,7 +2,7 @@
 title: Coding Question - Jewels and Stones
 date: 2023-04-05 00:00:00 -400
 categories: [Coding Questions, Easy]
-tags: [string]
+tags: [python, string]
 ---
 
 # Links  
