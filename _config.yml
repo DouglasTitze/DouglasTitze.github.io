@@ -84,7 +84,7 @@ avatar: https://media.licdn.com/dms/image/D4E03AQFdNnE6DJnD4g/profile-displaypho
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments:
+comments: true
   active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
