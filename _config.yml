@@ -84,8 +84,8 @@ avatar: https://media.licdn.com/dms/image/D4E03AQFdNnE6DJnD4g/profile-displaypho
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments: true
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+comments: 
+  active: giscus
   # The active options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -95,11 +95,11 @@ comments: true
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: https://github.com/DouglasTitze/DouglasTitze.github.io
+    repo: DouglasTitze/DouglasTitze.github.io
     repo_id: R_kgDOJMI_wg
     category: Announcements
     category_id: DIC_kwDOJMI_ws4CVp74
-    mapping: # optional, default to 'pathname'
+    mapping: url
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
