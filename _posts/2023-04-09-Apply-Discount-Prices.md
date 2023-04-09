@@ -13,20 +13,20 @@ Go to the [question](https://leetcode.com/problems/apply-discount-to-prices/desc
 # My Thoughts  
 
 **What Went Well**  
-I was able to complete this questions in a resonable amount of time dispite having issues with edge cases.
+Despite having issues with edge cases, I completed this question in a reasonable amount of time.
 
 **What Went Wrong**  
-While attempting to solve this question I tried googling for operations to make my solution simpiler but came up empty handed. 
-Fortunately I was able to implement it without the help of external resources.
+While attempting to solve this question, I tried googling for operations to simplify my solution but came up empty-handed. 
+Fortunately, I was able to implement it without the help of external resources.
 
 **What I Learned**  
 I refreshed my memory on string formatting for decimal numbers.
 
 **How I Can Improve**  
-I can continue to practice using builtin functions and review other submissions to gain a new perspective to approach this problem.
+I can continue to practice using built-in functions and review other submissions to gain a new perspective on how to approach this problem.
 
 **Comments**  
-This challenge was fun, but I felt like it had cheap edge cases and unecisarially dirty data, but overall a nice problem to practice lots of important coding concepts and builtin functions.
+This challenge was fun, but it had cheap edge cases and unnecessarily dirty data, but overall a nice problem to practice lots of essential coding concepts and built-in functions.
 
 # Solution Statistics  
 
@@ -34,10 +34,10 @@ This challenge was fun, but I felt like it had cheap edge cases and unecisariall
 17 minutes
 
 **Time Complexity**  
-O(n<sup>2</sup>) - This implementation nests a O(n + n) operation inside of a O(n) operation which means in the worst case we would have an O(n * 2n) runtime, which simplifies to O(n<sup>2</sup>), because we ignore constant multiples of n.
+O(n<sup>2</sup>) - This implementation nests an O(n + n) operation inside of an O(n) operation, which means in the worst case, we would have an O(n * 2n) runtime, which simplifies to O(n<sup>2</sup>) because we ignore multiples of n.
 
 **Space Complexity**  
-O(1) - Two new variables are created and do not depend on the length of the passed in sentence, resulting in the O(1) space complexity.
+O(1) - Two new variables are created and do not depend on the length of the sentence, resulting in the O(1) space complexity.
 
 **Runtime Beats**  
 67.50% of other submissions  
@@ -60,10 +60,10 @@ class Solution:
             # Check for constraint 1
             if num[0] == "$":               # O(1)
                 # Lots of edge cases can be solved simply by placing the following
-                # in a try and accept block, if any error is met then continue
+                # in a try-and-accept block, if any error is met, then continue
                 try:
                     # Check for constraint 2
-                    # If the number has more than 10 digits, then continue
+                    # If the number has more than ten digits, then continue
                     # We must convert it into an integer and then a string because of how
                     # very large numbers are represented
                     # Ex. 1e9 = 1,000,000,000
@@ -80,6 +80,7 @@ class Solution:
                 except:
                     continue
 
-        # Join the sentence back together, seperate each element by a space
+        # Join the sentence back together, separate each element by a space
         return " ".join(sentence)
 ```
+
