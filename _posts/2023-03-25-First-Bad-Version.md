@@ -1,5 +1,5 @@
 ---
-title: Coding Question - First Bad Version
+title: First Bad Version
 date: 2023-03-25 00:00:00 -400
 categories: [Coding Questions, Easy, Search Algorithms]
 tags: [python, binary search, array]

@@ -1,5 +1,5 @@
 ---
-title: Coding Question - Diameter of Binary Tree
+title: Diameter of Binary Tree
 date: 2023-04-07 00:00:00 -400
 categories: [Coding Questions, Easy]
 tags: [python, depth first search, binary tree]

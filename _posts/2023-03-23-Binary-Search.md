@@ -1,5 +1,5 @@
 ---
-title: Coding Question - Binary Search
+title: Binary Search
 date: 2023-03-23 00:01:00 -400
 categories: [Coding Questions, Easy, Search Algorithms]
 tags: [python, binary search, array]

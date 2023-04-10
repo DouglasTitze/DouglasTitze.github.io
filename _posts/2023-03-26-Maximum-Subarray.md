@@ -1,5 +1,5 @@
 ---
-title: Coding Question - Maximum Subarray
+title: Maximum Subarray
 date: 2023-03-26 00:00:00 -400
 categories: [Coding Questions, Medium]
 tags: [python, array, dynamic programming]

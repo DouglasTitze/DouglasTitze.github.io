@@ -1,5 +1,5 @@
 ---
-title: Coding Question - Maximum Depth of Binary Tree
+title: Maximum Depth of Binary Tree
 date: 2023-04-03 00:00:00 -400
 categories: [Coding Questions, Easy]
 tags: [python, depth first search, binary tree]

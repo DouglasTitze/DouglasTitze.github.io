@@ -1,5 +1,5 @@
 ---
-title: Coding Question - Reverse Linked List
+title: Reverse Linked List
 date: 2023-03-28 00:00:00 -400
 categories: [Coding Questions, Easy]
 tags: [python, linked list]

@@ -1,5 +1,5 @@
 ---
-title: Coding Question - Balanced Binary Tree
+title: Balanced Binary Tree
 date: 2023-03-24 00:00:00 -400
 categories: [Coding Questions, Easy, Search Algorithms]
 tags: [python, depth first search, tree]

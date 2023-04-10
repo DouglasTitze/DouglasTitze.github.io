@@ -1,5 +1,5 @@
 ---
-title: Coding Question - Climbing Stairs
+title: Climbing Stairs
 date: 2023-03-27 00:00:00 -400
 categories: [Coding Questions, Easy]
 tags: [python, math, dynamic programming, memoization]

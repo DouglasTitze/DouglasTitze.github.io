@@ -1,5 +1,5 @@
 ---
-title: Coding Question - Apply Discount to Prices
+title: Apply Discount to Prices
 date: 2023-04-09 00:00:00 -400
 categories: [Coding Questions, Medium]
 tags: [python, string]

@@ -1,5 +1,5 @@
 ---
-title: Coding Question - Contains Duplicate
+title: Contains Duplicate
 date: 2023-04-02 00:00:00 -400
 categories: [Coding Questions, Easy]
 tags: [python, hash table, sorting, set, array]

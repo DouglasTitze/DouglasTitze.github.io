@@ -1,5 +1,5 @@
 ---
-title: Coding Question - Lowest Common Ancestor of a Binary Search Tree
+title: Lowest Common Ancestor of a Binary Search Tree
 date: 2023-04-01 00:00:00 -400
 categories: [Coding Questions, Medium]
 tags: [python, binary search tree, depth first search]

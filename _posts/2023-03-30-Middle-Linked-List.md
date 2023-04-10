@@ -1,5 +1,5 @@
 ---
-title: Coding Question - Middle of the Linked List
+title: Middle of the Linked List
 date: 2023-03-30 00:00:00 -400
 categories: [Coding Questions, Easy]
 tags: [python, linked list, two pointer]
