@@ -1,5 +1,5 @@
 ---
-title: Coding Question - QUESTION NAME HERE
+title: QUESTION NAME HERE
 date: 2023-00-00 00:00:00 -400
 categories: [Coding Questions, XXXXX]
 tags: [TAGS]
@@ -37,13 +37,13 @@ COMMENTS
 # Solution Statistics  
 
 **Time Spent Coding**  
-TIME
+TIME minutes
 
 **Time Complexity**  
-O(x) - xxxxx
+O(x) - xxxxx, resulting in the O(n) space complexity.
 
 **Space Complexity**  
-O(x) - xxxx
+O(x) - xxxx, resulting in the O(n) space complexity.
 
 **Runtime Beats**  
 xx.xx% of other submissions  
