@@ -42,8 +42,12 @@ Once at the deepest point, the algorithm works backward until all the nodes have
 The algorithm I chose retrieved the largest depth of each child and then passed those values up to the parent. 
 If there ever were a violation of the tree balance, I would set both depths to infinity. This would allow the function to continue running while propagating the violation trigger until the final comparison of depths.  
 
+**Binary Tree -** A rooted tree where every node has at most two children, the left and right children.
+
 **Visual Examples**  
 Depth first search being performed on a tree, [click](https://he-s3.s3.amazonaws.com/media/uploads/9fa1119.jpg){:target="_blank"} to view
+
+Binary Tree, [click](https://cdn.programiz.com/sites/tutorial2program/files/perfect-binary-tree_0.png){:target="_blank"} to view 
 
 # Solution Statistics  
 

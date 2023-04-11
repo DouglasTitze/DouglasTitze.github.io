@@ -29,10 +29,19 @@ COMMENTS
 
 # Algorithm Description
 
-**Algorithm Name -** EXPLAIN
+**Binary Tree -** A rooted tree where every node has at most two children, the left and right children.
+
+**Depth First Search -** An algorithm for traversing a tree data structure. 
+The algorithm begins at the root node and searches until it can not continue any deeper. Once at the deepest point, the algorithm works backward until all the nodes have been visited.
 
 **Visual Examples**  
-, [click](LINK_HERE){:target="_blank"} to view  
+Binary Tree, [click](https://cdn.programiz.com/sites/tutorial2program/files/perfect-binary-tree_0.png){:target="_blank"} to view 
+
+Depth first search being performed on a tree, [click](https://he-s3.s3.amazonaws.com/media/uploads/9fa1119.jpg){:target="_blank"} to view  
+
+**Breadth-first search -** A graph/matrix traversal algorithm that searches for elements with a given property. It creates a deque of elements yet to be visited and then iterates through each level (similar elements) until there are no more elements to iterate through.
+
+The proper definition for breadth-first search when not being applied to this specific problem can be found [here](https://en.wikipedia.org/wiki/Breadth-first_search){:target="_blank"}.
 
 # Solution Statistics  
 
