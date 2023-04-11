@@ -33,7 +33,7 @@ I could have completed this faster, but I am satisfied with the outcome.
 I flowed through the problem and did not run into an error that halted me for more than 2 minutes, so overall, I am happy with today's result.
 This is not the most optimal solution, and I could achieve a more optimal solution by exiting the function as soon as a violation of the tree balance occurs.  
 
-# Algorithm Description
+# Algorithm/Data Structure Description
 
 **Depth First Search -** An algorithm for traversing a tree data structure.
 The algorithm begins at the root node and searches until it can not continue any deeper.
