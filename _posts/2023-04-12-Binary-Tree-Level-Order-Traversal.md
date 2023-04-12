@@ -16,7 +16,7 @@ Go to the [question](https://leetcode.com/problems/binary-tree-level-order-trave
 I implemented my solution quickly and had a very good runtime, and after optimizing, I got an outstanding space complexity.
 
 **What I Learned**  
-I learned how to convert my program into a more optimal solution using the breadth-first search algorithm.
+I learned how to convert my program into a more optimal solution using the breadth-first search algorithm. I learned that most iterables have an attribute of length that is returned when you call the len() function. Previously I had thought it performed operations to get the length.
 
 **How I Can Improve**  
 By practicing the implementation of depth and breadth-first search, I can master two very commonly used algorithms for trees and graphs.
