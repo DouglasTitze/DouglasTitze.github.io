@@ -19,7 +19,8 @@ I implemented my solution quickly and had a very good runtime.
 I did not have a very good space complexity, becuase I solved this problem using a recurssive solution.
 
 **What I Learned**  
-I learned how to convert my program into a more optimal solution using the breadth first search algorithm.
+I learned how to convert my program into a more optimal solution using the breadth first search algorithm. 
+I also learned that the len() function is an O(1) operation and not O(n). This was nice to know since I have avoided some solutions because of this belief.
 
 **How I Can Improve**  
 Practice the implementation of both depth and breadth first search and become proficient in both.
