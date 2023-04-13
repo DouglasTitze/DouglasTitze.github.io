@@ -41,6 +41,49 @@ Binary Tree, [click](https://cdn.programiz.com/sites/tutorial2program/files/perf
 
 Depth-first search being performed on a tree, [click](https://he-s3.s3.amazonaws.com/media/uploads/9fa1119.jpg){:target="_blank"} to view  
 
+# Solution Statistics For Breadth-First Search
+
+**Time Spent Optimizing**  
+5 minutes
+
+**Time Complexity**  
+O(n) - Each node (n) must pass through the while loop, and since the while loop is an O(1) block of code, we get an O(n) time complexity.
+
+**Space Complexity**  
+O(n) - We are constantly pushing and popping off the deque but only appending to the sorted list. The number of elements in the sorted list exceeds that of the deque, resulting in the O(n) space complexity.
+
+**Runtime Beats**  
+89.74% of other submissions  
+
+**Memory Beats**  
+97.74% of other sumbissions  
+
+# Optimal Solution  
+
+```python
+class Solution:
+    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        if root is None: return []  # O(1)
+
+        order = []  # O(1)
+        q = deque() # O(1)
+        q.append((root,0))  # O(1)
+
+	# Continuously iterate through the deque until it is empty
+        while q:
+            cur, depth = q.popleft()    # O(1)
+            
+            if depth == len(order):     # O(1)
+                order.append([cur.val]) # O(1)
+            else:
+                order[depth].append(cur.val)    # O(1)
+
+            if cur.left: q.append((cur.left,depth+1))   # O(1)
+            if cur.right: q.append((cur.right,depth+1)) # O(1)
+        
+        return order
+```
+
 # Solution Statistics For Depth First Search
 
 **Time Spent Coding**  
@@ -96,45 +139,3 @@ class Solution:
         return self.order
 ```
 
-# Solution Statistics For Breadth-First Search
-
-**Time Spent Optimizing**  
-5 minutes
-
-**Time Complexity**  
-O(n) - Each node (n) must pass through the while loop, and since the while loop is an O(1) block of code, we get an O(n) time complexity.
-
-**Space Complexity**  
-O(n) - We are constantly pushing and popping off the deque but only appending to the sorted list. The number of elements in the sorted list exceeds that of the deque, resulting in the O(n) space complexity.
-
-**Runtime Beats**  
-89.74% of other submissions  
-
-**Memory Beats**  
-97.74% of other sumbissions  
-
-# Optimal Solution  
-
-```python
-class Solution:
-    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        if root is None: return []  # O(1)
-
-        order = []  # O(1)
-        q = deque() # O(1)
-        q.append((root,0))  # O(1)
-
-	# Continuously iterate through the deque until it is empty
-        while q:
-            cur, depth = q.popleft()    # O(1)
-            
-            if depth == len(order):     # O(1)
-                order.append([cur.val]) # O(1)
-            else:
-                order[depth].append(cur.val)    # O(1)
-
-            if cur.left: q.append((cur.left,depth+1))   # O(1)
-            if cur.right: q.append((cur.right,depth+1)) # O(1)
-        
-        return order
-```
