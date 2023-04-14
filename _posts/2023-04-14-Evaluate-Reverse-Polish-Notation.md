@@ -113,7 +113,7 @@ Although the same space complexity, the function creates a lot more intermediary
 **Memory Beats**  
 10.33% of other sumbissions  
 
-# Optimized Solution  
+# Original Solution  
 
 ```python
 class Solution:
