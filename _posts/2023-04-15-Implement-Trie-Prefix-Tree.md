@@ -33,7 +33,8 @@ If the element we are looking for is in the array, we will return true, because 
 
 **Set (hash table) -** An unordered collection of distinct elements. Each element may only appear once.
 
-**Hash Map/Dictionary -** A data structure that maps keys to their values. Each key may only appear once.
+**Hash Map/Dictionary -** A data structure that stores a collection of keys, each to their respective values. 
+Each key may only appear once. 
 
 # Solution Statistics For My Solution
 
