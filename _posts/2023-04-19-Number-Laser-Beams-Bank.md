@@ -52,8 +52,9 @@ class Solution:
                 tot += cur * prev
                 prev = cur
 
-            # else:
             # If there are no security devices on the current
             # row, then we do not need to reset the prev
+            # else: continue
+            
         return tot
 ```
