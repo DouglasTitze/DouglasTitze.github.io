@@ -73,8 +73,8 @@ class Solution:
 10 minutes
 
 **Time Complexity**  
-O(n<sup>2</sup>) - We iterate through each element in the list, and for each element, we iterate through the n-i-1 elements.
-Since i and 1 are constant, we ignore them but are left with an O(n) loop within an O(n) loop, resulting in the O(n<sup>2</sup>) time complexity.
+O(n<sup>2</sup>) - We iterate through each element in the list, and for each element, we iterate through the n-1 elements.
+Since 1 is a constant, we ignore it, and are left with an O(n) loop within an O(n) loop, resulting in the O(n<sup>2</sup>) time complexity.
 
 **Space Complexity**  
 O(n) - We must return an array of results with a length equivalent to n, resulting in the O(n) space complexity.
