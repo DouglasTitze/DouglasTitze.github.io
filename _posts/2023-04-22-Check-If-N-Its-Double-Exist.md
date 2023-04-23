@@ -2,12 +2,12 @@
 title: Check If N and Its Double Exist
 date: 2023-04-22 00:00:00 -400
 categories: [Coding Questions, Easy]
-tags: [array, hash table, ]
+tags: [array, hash table]
 ---
 
 # Links  
 
-Go to my [solution](#solution)  
+Go to my [solution](#optimal-solution)  
 Go to the [question](https://leetcode.com/problems/check-if-n-and-its-double-exist/){:target="_blank"} on LeetCode  
 
 # My Thoughts  
@@ -48,7 +48,7 @@ O(n) - We store at most n elements in a set, resulting in the O(n) space complex
 **Memory Beats**  
 100% of other sumbissions  
 
-# Original Solution  
+# Optimal Solution  
 
 ```python
 class Solution:
@@ -94,15 +94,26 @@ class Solution:
     def checkIfExist(self, arr: List[int]) -> bool:
         nums = {}
 
+        # Fill the nums dictionary with each element
+        # and an array of its indicies
         for i,n in enumerate(arr):
             x = nums.get(n,[])
             x.append(i)
             nums[n] = x
 
+        # Iterate through each number in the array
         for i,n in enumerate(arr):
+
+            # If the double of n exists in nums
             if n*2 in nums: 
+
+                # Verifiy the double exists at a different index than i
                 for j in nums[n*2]:
+
+                    # If the index is the same, then go to the next index
                     if j == i: continue
+
+                    # If met; return True
                     return True
 
         return False
