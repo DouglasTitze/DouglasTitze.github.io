@@ -13,17 +13,17 @@ Go to the [question](https://leetcode.com/problems/check-if-n-and-its-double-exi
 # My Thoughts  
 
 **What Went Well**  
-I came up with the most optimal solution after a quite strange original solution.
+After a quite strange original solution, I came up with the most optimal solution.
 
 **What Went Wrong**  
-Initially I attempted to implement the optimal solution, but was missing an edge case resulting in incorrect answers.
+Initially, I attempted to implement the optimal solution but was missing an edge case resulting in incorrect answers.
 
 **How I Can Improve**  
-I believe I approached the problem as best as I could, but I didn't spend enough time figuring out why my initial solution wasn't working. 
+I approached the problem as best as possible but didn't spend enough time figuring out why my initial solution wasn't working. 
 Once coming back to it after getting a sub-optimal solution to work, I realized it was not that hard of a fix.
 
 **Comments**  
-My original solution is not very readable and requires a lot of comments compared to the optimal solution.
+My original solution could be more readable and requires many comments compared to the optimal solution.
 
 # Data Structure Description
 
@@ -35,8 +35,8 @@ Set (hash table) - An unordered collection of distinct elements. Each element ma
 5 minutes
 
 **Time Complexity**  
-O(n) - We will take n to be the number of elements in the list. 
-We iterate through at most n elements, but perform four O(1) opertaions each element. 
+O(n) - We will take n as the list's number of elements. 
+We iterate through at most n elements but perform four O(1) operations for each element. 
 Since we ignore the O(1) operations, resulting in the O(n) time complexity.
 
 **Space Complexity**  
@@ -56,8 +56,13 @@ class Solution:
         seen = set()
 
         for i in arr:
+
+            # If the elements double or half exist in the set
+            # then our search criteria are met
             if i*2 in seen or i/2 in seen:
                 return True
+
+            # Add the element to the set if they aren't met
             seen.add(i)
             
         return False
@@ -69,12 +74,12 @@ class Solution:
 12 minutes
 
 **Time Complexity**  
-O(n * m) - We will take n to be the number of elements in the list and m to be the number of elements in the list of the indicies of each element. 
-For each element n we search through their respective list of m elements, resulting in the O(n * m) time complexity.
+O(n * m) - We will take n to be the number of elements in the list and m to be the number of elements in the list of the indices of each element. 
+For each element n, we search through their respective list of m elements, resulting in the O(n * m) time complexity.
 
 **Space Complexity**  
-O(n * m) - We will take n to be the number of elements in the list and m to be the number of elements in the list of the indicies of each element. 
-Since we are sotring a list of m elements for each element it results in a O(n * m) space complexity.
+O(n * m) - We will take n to be the number of elements in the list and m to be the number of elements in the list of the indices of each element. 
+Since we store a list of m elements for each element, it results in an O(n * m) space complexity.
 
 **Runtime Beats**  
 56.16% of other submissions  
