@@ -28,7 +28,7 @@ Knowing dynamic programming is one of the more difficult concepts in computer sc
 The algorithm begins at the root node and searches its children until it can not search any deeper. 
 Once the deepest node is met, the algorithm works backward, computing each node. 
 
-In this problem, our root node would be the curAmount, and our code works backward inside of our `` `if curAmount-coin >= 0:` `` statement by reassigning the curAmount value in our dp.
+In this problem, our root node would be the curAmount, and our code works backward inside of our ``` if curAmount-coin >= 0: ``` statement by reassigning the curAmount value in our dp.
 
 # Solution Statistics  
 
