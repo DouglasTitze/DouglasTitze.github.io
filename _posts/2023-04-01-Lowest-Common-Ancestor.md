@@ -2,7 +2,7 @@
 title: Lowest Common Ancestor of a Binary Search Tree
 date: 2023-04-01 00:00:00 -400
 categories: [Coding Questions, Medium]
-tags: [python, binary search tree, depth first search]
+tags: [python, binary search tree, depth-first search]
 ---
 
 # Links  
@@ -32,7 +32,7 @@ So, I cannot accurately say it only took me "2 minutes" to optimize my code beca
 
 # Algorithm Description
 
-**Binary Search Tree -** A sorted and ordered tree based on the root node. Nodes to the left of ANY node are less than their parent, and those to the right are greater.
+**Binary Search Tree -** A sorted and ordered tree based on the root node. Subtrees to the left of ANY node are less than their parent, and those to the right are greater.
 
 **Lowest Common Ancestor -** The deepest node that is a parent of both nodes. In this problem, a node can be its parent if one of its children is the other node.
 
