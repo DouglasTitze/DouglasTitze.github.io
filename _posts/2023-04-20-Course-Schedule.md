@@ -2,7 +2,7 @@
 title: Course Schedule
 date: 2023-04-20 00:00:00 -400
 categories: [Coding Questions, Medium]
-tags: [depth first search, hash map, hash table]
+tags: [python, depth-first search, hash map, hash table]
 ---
 
 # Links  

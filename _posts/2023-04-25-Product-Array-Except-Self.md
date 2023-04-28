@@ -2,7 +2,7 @@
 title: Product of Array Except Self
 date: 2023-04-25 00:00:00 -400
 categories: [Coding Questions, Medium]
-tags: [dynamic programming, prefix sum]
+tags: [python, dynamic programming, prefix sum]
 ---
 
 # Links  

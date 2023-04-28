@@ -2,7 +2,7 @@
 title: Check If N and Its Double Exist
 date: 2023-04-22 00:00:00 -400
 categories: [Coding Questions, Easy]
-tags: [array, hash table]
+tags: [python, array, hash table]
 ---
 
 # Links  

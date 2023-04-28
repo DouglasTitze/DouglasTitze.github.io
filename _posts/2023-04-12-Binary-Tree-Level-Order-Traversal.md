@@ -2,7 +2,7 @@
 title: Binary Tree Level Order Traversal
 date: 2023-04-12 00:00:00 -400
 categories: [Coding Questions, Medium]
-tags: [binary tree, depth first search, breadth first search]
+tags: [python, binary tree, depth-first search, breadth first search]
 ---
 
 # Links  

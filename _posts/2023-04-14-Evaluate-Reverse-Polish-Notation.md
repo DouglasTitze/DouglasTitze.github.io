@@ -2,7 +2,7 @@
 title: Evaluate Reverse Polish Notation
 date: 2023-04-14 00:00:00 -400
 categories: [Coding Questions, Medium]
-tags: [math, stack, array]
+tags: [python, math, stack, array]
 ---
 
 # Links  

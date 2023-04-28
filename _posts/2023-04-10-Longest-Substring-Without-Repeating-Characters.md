@@ -2,7 +2,7 @@
 title: Longest Substring Without Repeating Characters
 date: 2023-04-10 00:00:00 -400
 categories: [Coding Questions, Medium]
-tags: [hash table, string, sliding window]
+tags: [python, hash table, string, sliding window]
 ---
 
 # Links  

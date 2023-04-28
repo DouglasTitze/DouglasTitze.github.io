@@ -2,7 +2,7 @@
 title: Implement Trie (Prefix Tree)
 date: 2023-04-15 00:00:00 -400
 categories: [Coding Questions, Medium]
-tags: [hash table, string, tire, bisect]
+tags: [python, hash table, string, tire, bisect]
 ---
 
 # Links  

@@ -2,7 +2,7 @@
 title: Left and Right Sum Differences
 date: 2023-04-21 00:00:00 -400
 categories: [Coding Questions, Easy]
-tags: [array, prefix sum]
+tags: [python, array, prefix sum]
 ---
 
 # Links  

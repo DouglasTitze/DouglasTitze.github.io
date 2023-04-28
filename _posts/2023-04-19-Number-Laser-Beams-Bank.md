@@ -2,7 +2,7 @@
 title: Number of Laser Beams in a Bank
 date: 2023-04-19 00:00:00 -400
 categories: [Coding Questions, Medium]
-tags: [array, math, string, matrix]
+tags: [python, array, math, string, matrix]
 ---
 
 # Links  

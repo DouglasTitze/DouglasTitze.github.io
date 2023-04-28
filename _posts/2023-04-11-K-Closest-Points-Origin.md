@@ -2,7 +2,7 @@
 title: K Closest Points to Origin
 date: 2023-04-11 00:00:00 -400
 categories: [Coding Questions, Medium]
-tags: [array, math, sorting]
+tags: [python, array, math, sorting]
 ---
 
 # Links  

@@ -2,7 +2,7 @@
 title: Two Sum II - Input Array Is Sorted
 date: 2023-04-17 00:00:00 -400
 categories: [Coding Questions, Medium]
-tags: [array, two pointers, binary search]
+tags: [python, array, two pointers, binary search]
 ---
 
 # Links  

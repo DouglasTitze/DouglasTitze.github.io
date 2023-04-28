@@ -2,7 +2,7 @@
 title: Isomorphic Strings
 date: 2023-04-23 00:00:00 -400
 categories: [Coding Questions, Easy]
-tags: [hash map, string]
+tags: [python, hash map, string]
 ---
 
 # Links  
