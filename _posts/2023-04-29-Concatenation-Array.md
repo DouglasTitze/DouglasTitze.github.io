@@ -13,10 +13,10 @@ Go to the [question](https://leetcode.com/problems/concatenation-of-array/){:tar
 # My Thoughts  
 
 **What I Learned**  
-I refreshed my memory on a list method I have not used in a long time.
+I refreshed my memory on a list method I had not used in a long time.
 
 **Comments**  
-I honestly forgot this method existed, since I do not typically want the arrays to concatante.
+I forgot this method existed since I do not typically want arrays to concatenate.
 
 # Solution Statistics  
 
@@ -27,10 +27,10 @@ I honestly forgot this method existed, since I do not typically want the arrays 
 O(n) - We must iterate through each element in the array (O(n)) and append it (O(1)) to the array, resulting in the O(n) time complexity.
 
 **Space Complexity**  
-O(n) - We are storing each element of the array twice, resulting in an O(n * 2) space complexity. 
+O(n) - We store each array element twice, resulting in an O(n * 2) space complexity. 
 Since big O ignores constant multiples of n, the true space complexity is O(n).  
 
-One could argue that the problem asks us to store each element twice meaning the problem does not want you to count the output array in the time complexity, but that is usually specified.
+One could argue that the problem asks us to store each element twice, meaning the problem does not want you to count the output array in the time complexity, but that is usually specified.
 
 **Runtime Beats**  
 99.33% of other submissions  
