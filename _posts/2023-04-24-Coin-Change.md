@@ -2,7 +2,7 @@
 title: Coin Change
 date: 2023-04-24 00:00:00 -400
 categories: [Coding Questions, Medium]
-tags: [python, array, dynamic programming, breadth first search]
+tags: [python, array, dynamic programming, depth-first search]
 ---
 
 # Links  
@@ -24,9 +24,9 @@ Knowing dynamic programming is one of the more difficult concepts in computer sc
 
 # Algorithm Description
 
-**Breadth-First Search -** An algorithm for traversing data structures. 
-The algorithm begins at the root node and searches its children until it can not search any deeper. 
-Once the deepest node is met, the algorithm works backward, computing each node. 
+**Depth First Search -** An algorithm for traversing data structures.
+The algorithm begins at the root node and searches until it can not continue any deeper.
+Once at the deepest point, the algorithm works backward until all the nodes have been visited.  
 
 In this problem, our root node would be the curAmount, and our code works backward inside of our ``` if curAmount-coin >= 0: ``` statement by reassigning the curAmount value in our dp.
 
