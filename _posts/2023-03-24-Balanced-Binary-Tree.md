@@ -35,7 +35,7 @@ This is not the most optimal solution, and I could achieve a more optimal soluti
 
 # Algorithm/Data Structure Description
 
-**Depth First Search -** An algorithm for traversing a tree data structure.
+**Depth-First Search -** An algorithm for traversing a tree data structure.
 The algorithm begins at the root node and searches until it can not continue any deeper.
 Once at the deepest point, the algorithm works backward until all the nodes have been visited.  
   

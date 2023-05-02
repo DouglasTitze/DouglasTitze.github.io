@@ -32,7 +32,7 @@ The optimal answer is much shorter and includes fewer conditional statements, bu
 
 **Binary Tree -** A rooted tree where every node has at most two children, the left and right children.
 
-**Depth First Search -** An algorithm for traversing a tree data structure. 
+**Depth-First Search -** An algorithm for traversing a tree data structure. 
 The algorithm begins at the root node and searches until it can not continue any deeper. 
 Once at the deepest point, the algorithm works backward until all the nodes have been visited. 
 

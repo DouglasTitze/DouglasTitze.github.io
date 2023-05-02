@@ -2,7 +2,7 @@
 title: Binary Tree Level Order Traversal
 date: 2023-04-12 00:00:00 -400
 categories: [Coding Questions, Medium]
-tags: [python, binary tree, depth-first search, breadth first search]
+tags: [python, binary tree, depth-first search, breadth-first search]
 ---
 
 # Links  
@@ -27,7 +27,7 @@ By practicing the implementation of depth and breadth-first search, I can master
 
 **Binary Tree -** A rooted tree where every node has at most two children, the left and right children.
 
-**Depth First Search -** An algorithm for traversing a tree data structure. 
+**Depth-First Search -** An algorithm for traversing a tree data structure. 
 The algorithm begins at the root node and searches until it can not continue any deeper. 
 Once at the deepest point, the algorithm works backward until all the nodes have been visited.
 

@@ -34,7 +34,7 @@ Each key may only appear once.
 
 **Set (hash table) -** An unordered collection of distinct elements. Each element may only appear once.
 
-**Depth First Search -** An algorithm for traversing a tree/graph data structure. 
+**Depth-First Search -** An algorithm for traversing a tree/graph data structure. 
 The algorithm begins at the root node and searches its children until it can not search any deeper. 
 Once the deepest node is met, the algorithm works backward, computing each node. 
 

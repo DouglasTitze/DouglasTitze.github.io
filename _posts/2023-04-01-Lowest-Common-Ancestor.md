@@ -36,7 +36,7 @@ So, I cannot accurately say it only took me "2 minutes" to optimize my code beca
 
 **Lowest Common Ancestor -** The deepest node that is a parent of both nodes. In this problem, a node can be its parent if one of its children is the other node.
 
-**Depth First Search -** An algorithm for traversing a tree data structure. 
+**Depth-First Search -** An algorithm for traversing a tree data structure. 
 The algorithm begins at the root node and searches until it can not continue any deeper. 
 Once at the deepest point, the algorithm works backward until all the nodes have been visited. 
 

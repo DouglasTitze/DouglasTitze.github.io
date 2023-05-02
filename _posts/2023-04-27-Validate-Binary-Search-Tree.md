@@ -30,7 +30,7 @@ This causes the same answer to sway from 95% to 5%.
 
 **Binary Search Tree -** A sorted and ordered tree based on the root node. Subtrees to the left of ANY node are less than their parent, and those to the right are greater.
 
-**Depth First Search -** An algorithm for traversing a tree data structure. 
+**Depth-First Search -** An algorithm for traversing a tree data structure. 
 The algorithm begins at the root node and searches until it can not continue any deeper. 
 Once at the deepest point, the algorithm works backward until all the nodes have been visited. 
 
