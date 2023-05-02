@@ -24,11 +24,14 @@ Knowing dynamic programming is one of the more difficult concepts in computer sc
 
 # Algorithm Description
 
-**Depth First Search -** An algorithm for traversing data structures.
+**Depth-First Search -** An algorithm for traversing data structures.
 The algorithm begins at the root node and searches until it can not continue any deeper.
 Once at the deepest point, the algorithm works backward until all the nodes have been visited.  
 
 In this problem, our root node would be the curAmount, and our code works backward inside of our ``` if curAmount-coin >= 0: ``` statement by reassigning the curAmount value in our dp.
+
+**Visual Example**
+Depth-first search being performed on a tree, [click](https://he-s3.s3.amazonaws.com/media/uploads/9fa1119.jpg){:target="_blank"} to view  
 
 # Solution Statistics  
 

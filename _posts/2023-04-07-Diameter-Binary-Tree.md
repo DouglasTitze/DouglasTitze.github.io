@@ -29,12 +29,18 @@ I also would have benifit from saving my original solution instead of completely
 I knew the algorithm to follow and how to implement it, but one of my test cases kept incorrectly adding one to my result. 
 Unfortunately, even after scrapping my code and starting from scratch, my logic began work only for trees with two nodes.
 
-# Data Structure Description
+# Algorith/Data Structure Description
 
 **Binary Tree -** A rooted tree where every node has at most two children, the left and right children.
 
+**Depth First Search -** An algorithm for traversing a tree data structure. 
+The algorithm begins at the root node and searches until it can not continue any deeper. 
+Once at the deepest point, the algorithm works backward until all the nodes have been visited.
+
 **Visual Examples**  
-Binary Tree, [click](https://cdn.programiz.com/sites/tutorial2program/files/perfect-binary-tree_0.png){:target="_blank"} to view  
+Binary Tree, [click](https://cdn.programiz.com/sites/tutorial2program/files/perfect-binary-tree_0.png){:target="_blank"} to view 
+
+Depth-first search being performed on a tree, [click](https://he-s3.s3.amazonaws.com/media/uploads/9fa1119.jpg){:target="_blank"} to view  
 
 # Solution Statistics  
 
