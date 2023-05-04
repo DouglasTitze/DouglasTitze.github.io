@@ -13,7 +13,8 @@ Go to the [question](https://leetcode.com/problems/decompress-run-length-encoded
 # My Thoughts  
 
 **What Went Well**  
-I solved the problem quickly and learned unique ways to solve this problem using operations I had never seen before.
+I solved the problem quickly and learned unique ways to solve this problem using operations I had never seen before. 
+I also learned about the run-length encoding algorithm.
 
 # Solution Statistics  
 
