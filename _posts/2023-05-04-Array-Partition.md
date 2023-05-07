@@ -2,7 +2,7 @@
 title: Array Partition
 date: 2023-05-04 00:00:00 -400
 categories: [Coding Questions, Easy]
-tags: [array, sorting]
+tags: [python, array, sorting]
 ---
 
 # Links  

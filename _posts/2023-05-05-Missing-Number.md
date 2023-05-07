@@ -2,7 +2,7 @@
 title: Missing Number
 date: 2023-05-05 00:00:00 -400
 categories: [Coding Questions, Easy]
-tags: [array, math]
+tags: [python, array, math]
 ---
 
 # Links  

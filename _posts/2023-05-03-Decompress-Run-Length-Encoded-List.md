@@ -2,7 +2,7 @@
 title: Decompress Run-Length Encoded List
 date: 2023-05-03 00:00:00 -400
 categories: [Coding Questions, Easy]
-tags: [array]
+tags: [python, array]
 ---
 
 # Links  

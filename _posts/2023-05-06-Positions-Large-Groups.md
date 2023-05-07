@@ -2,7 +2,7 @@
 title: Positions of Large Groups
 date: 2023-05-06 00:00:00 -400
 categories: [Coding Questions, Easy]
-tags: [string, sliding window]
+tags: [python, string, sliding window]
 ---
 
 # Links  
