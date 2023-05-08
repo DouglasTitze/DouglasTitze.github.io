@@ -2,7 +2,7 @@
 title: Contains Duplicate
 date: 2023-04-02 00:00:00 -400
 categories: [Coding Questions, Easy]
-tags: [python, hash table, sorting, set, array]
+tags: [python, hash table, hash map, sorting, array]
 ---
 
 # Links  
@@ -27,8 +27,8 @@ You can iterate through the nums array and add elements into the dictionary unti
 
 # Data Structure Description
 
-**Set -** An unordered container of non-repeating values.  
-**Hash Map/Dictionary -** A data structure that maps keys to their values. Each key may only appear once.
+**Hash Table (Set) -** An unordered container of non-repeating values.  
+**Hash Map (Dictionary) -** A data structure that maps keys to their values. Each key may only appear once.
 
 **Visual Examples**  
 An array being transformed into a set, [click](https://drive.google.com/file/d/1LRyxh8Lfi00T58I4HRA6jOKPuO87s40F/view?usp=sharing){:target="_blank"} to view  
