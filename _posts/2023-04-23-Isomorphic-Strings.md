@@ -23,7 +23,7 @@ I further analyze the constraints to ensure a proper understanding of the proble
 
 # Data Structure Description
 
-**Hash Map/Dictionary -** A data structure that stores a collection of keys, each to their respective values. 
+**Hash Map (Dictionary) -** A data structure that stores a collection of keys, each to their respective values. 
 Each key may only appear once. 
 
 # Solution Statistics  
