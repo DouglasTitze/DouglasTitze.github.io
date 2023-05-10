@@ -1,19 +1,19 @@
 ---
 title: Create Target Array in the Given Order
-date: 2023-12-31 00:00:00 -400
-categories: [Coding Questions, XXXXX]
-tags: [python, TAGS]
+date: 2023-05-09 00:00:00 -400
+categories: [Coding Questions, Easy]
+tags: [python, array]
 ---
 
 # Links  
 
 Go to my [solution](#solution)  
-Go to the [question](LINK_HERE){:target="_blank"} on LeetCode  
+Go to the [question](https://leetcode.com/problems/create-target-array-in-the-given-order/){:target="_blank"} on LeetCode  
 
 # My Thoughts  
 
 **What Went Well**  
-I came up with two different approaches to the probelm using techniques I didn't know about until this year, so I am glad I got some practice with them.
+I came up with two different approaches to the problem using techniques I learned about this year, so I am glad I got some practice with them.
 
 # Algorithm Description
 
@@ -29,10 +29,10 @@ Zip in action, [click](https://blog.finxter.com/wp-content/uploads/2021/01/zip-7
 
 **Time Complexity**  
 O(n) - We must iterate through each element in index/nums lists and again to add their elements to the return list, but the zip generator access each element at access time, meaning we only iterate through each list once, resulting in the O(n) time complexity. 
-If the zip operator did not do this, then the time complexity would be O(2 * n), which would still reduce to O(n).
+If the zip operator did not do this, the time complexity would be O(2 * n), which would still reduce to O(n).
 
 **Space Complexity**  
-O(n) - We must store a return list containing each element in the nums list, resulting in the O(n) space complexity, since both the nums and index list have the same number of elements.
+O(n) - We must store a return list containing each element in the nums list, resulting in the O(n) space complexity since both the nums and index list have the same number of elements.
 
 **Runtime Beats**  
 88.65% of other submissions  
