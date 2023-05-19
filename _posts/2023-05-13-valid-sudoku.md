@@ -37,6 +37,13 @@ Each box contains 3 rows and 3 columns, meaning each box can be identified by th
 If this unique identifier is not within the set, then add it.  
 If we exit both for loops and have not returned `False`, the sodoku board must be valid.
 
+## Data Structure Used
+
+**Hash Table (Set) -** An unordered container of non-repeating values.  
+
+**Visual Examples**  
+An array being transformed into a set, [click](https://drive.google.com/file/d/1LRyxh8Lfi00T58I4HRA6jOKPuO87s40F/view?usp=sharing){:target="_blank"} to view  
+
 ## Solution
 
 ```python
