@@ -39,7 +39,7 @@ We then must iterate the pointer with the smallest height to the next element, a
 
 When the while loop exits, we will have the maximum amount of water we can store in the variable `most`, and then return it.
 
-# Algorithm Description
+## Algorithm Description
 
 **Two Pointer Algorithm -** An algorithm typically used to search a list where opposite ends of the list share a relationship that will be compared to determine some outcome.
 

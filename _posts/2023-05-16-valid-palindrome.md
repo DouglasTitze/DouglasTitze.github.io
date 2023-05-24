@@ -32,7 +32,7 @@ If all conditions pass, and the code does not exit the while loop or go to the n
 
 If the while loop exits, the string is verified to be a palindrome, and we return `True`.
 
-# Algorithm Description
+## Algorithm Description
 
 **Two Pointer Algorithm -** An algorithm typically used to search a list where opposite ends of the list share a relationship that will be compared to determine some outcome.
 

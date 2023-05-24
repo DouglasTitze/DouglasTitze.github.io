@@ -34,7 +34,7 @@ With these two variables declared, we can check if the sum is:
 
 If our left variable exceeds our right, we know that our mid value's series sum `sum_s` has not achieved a perfect staircase, so our right value represents the appropriate number of completed rows.
 
-# Algorithm Description
+## Algorithm Description
 
 **Binary Search Algorithm -** A sorting algorithm that repeatedly halves the search interval until the target variable is found at the middle index.  
 

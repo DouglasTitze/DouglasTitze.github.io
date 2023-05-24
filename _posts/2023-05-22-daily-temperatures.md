@@ -40,7 +40,7 @@ Once we exit the `while` loop, we will append the current index to the `stack.`
 
 We will return the result list once we exit the `for` loop.
 
-# Data Structure Used
+## Data Structure Used
 
 **Stack -** A stack is similar to an array, except you are only allowed to push/pop (add/remove) from the end of the stack. A stack follows the first in, last out, or FILO theme.
 

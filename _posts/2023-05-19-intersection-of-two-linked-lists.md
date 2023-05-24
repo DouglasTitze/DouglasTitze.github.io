@@ -36,7 +36,7 @@ If it is `None,` we will set the pointer equal to the opposite list starting nod
 If there is an intersection, we will return the node that both pointers are equal to.  
 If there is **no** intersection, eventually, the nodes will both be equal to `None`, and we will return that.
 
-# Algorithms Used
+## Algorithms Used
 
 **Two Pointer Algorithm -** An algorithm typically used to search a list where opposite ends of the list share a relationship that will be compared to determine some outcome.
 
