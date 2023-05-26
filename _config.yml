@@ -79,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/D4E03AQFdNnE6DJnD4g/profile-displayphoto-shrink_800_800/0/1665192930840?e=1684972800&v=beta&t=5IvE88ZLNfj6dt2UsbBTVWkKnovEx8bVTDekK5yo2ao
+avatar: https://media.licdn.com/dms/image/D4E03AQFdNnE6DJnD4g/profile-displayphoto-shrink_200_200/0/1665192930840?e=1690416000&v=beta&t=IuCHTdsEYSq8m04y5lEYIICmKb1ypW2Afx84ISS2mhc
 
 # boolean type, the global switch for TOC in posts.
 toc: true
