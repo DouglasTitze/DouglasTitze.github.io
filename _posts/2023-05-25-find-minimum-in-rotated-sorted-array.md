@@ -10,9 +10,6 @@ tags: [python, binary search]
 
 ## Statistics  
 
-**Time Spent Coding**  
-_____TIME_HERE_____ minutes
-
 **Time Complexity**  
 O(log n) - We are performing a modified version of binary search, and when binary search is performed on a sorted array, the time complexity is O(log n).
 
