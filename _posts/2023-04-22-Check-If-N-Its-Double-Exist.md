@@ -27,7 +27,7 @@ My original solution could be more readable and requires many comments compared 
 
 # Data Structure Description
 
-Set (hash table) - An unordered collection of distinct elements. Each element may only appear once.
+**Set (hash table)** - An unordered collection of distinct elements. Each element may only appear once.
 
 # Optimal Solution Statistics  
 
