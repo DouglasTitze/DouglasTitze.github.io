@@ -26,11 +26,11 @@ O(n+m) - Since we are converting both input strings to integers, and then back w
 97.94x% of other sumbissions  
 
 ## Explanation
-To multiply `num1` and `num2` together, we must convert then to integeres (`int(x)`) and then multiply them. 
+To multiply `num1` and `num2` together, we must convert them to integers (`int()`) and then multiply them. 
 
 After this we must convert the result to a string (`str()`).
 
-Once converted we return the output of the `str()` function.
+Once converted we return the output.
 
 ## Solution  
 
