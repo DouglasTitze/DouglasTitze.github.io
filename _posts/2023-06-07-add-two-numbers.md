@@ -13,10 +13,10 @@ tags: [python, linked list, math]
 5 minutes
 
 **Time Complexity**  
-O(n) - Although each number and its sum are iterated through the resulting time complexity is O(n) since Big-O ignores constant multiples of n.
+O(n+m+k) - We must iterate through each digit of the number in `l1` (n) the number in `l2` (m) and the sum of those numbers (k), resulting in the O(n+m+k) time complexity.
 
 **Space Complexity**  
-O(len(l1 +l2)) - The length of the sum of the numbers stored in l1 and l2 is the number of `ListNode`'s needed, resulting in the O(len(l1 +l2)) space complexity.
+O(k) - The length of the sum of the numbers stored in l1 and l2 is the number of `ListNode`'s needed, resulting in the O(k) space complexity.
 
 **Runtime Beats**  
 56.69% of other submissions  
