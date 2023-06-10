@@ -22,8 +22,14 @@ I further solidified the two-pointer method in my brain.
 
 **Two Pointer Algorithm -** If a list is sorted and we place a pointer at the extreme values (max and min), we can iterate one pointer at a time to approach the solution.
 
+**Binary Search -** A search algorithm that repeatedly halves the search interval until the target variable is found at the middle index.  
+
 **Visual Examples**  
 The two-pointer algorithm being performed on a list, [click](https://usblog.teamblind.com/wp-content/uploads/2022/06/Two-Pointers-Coding-Interview-Problem.png){:target="_blank"} to view  
+
+Binary search being performed on an array that contains the target, [click](https://ds1-iiith.vlabs.ac.in/exp/unsorted-arrays/binary-search/images/binary_search_stepwise.png){:target="_blank"} to view   
+
+Binary search being performed on an array that does **not** contain the target, [click](https://storage.googleapis.com/algodailyrandomassets/tutorials-optimized/binarySearch1.png){:target="_blank"} to view 
 
 # Solution Statistics  
 

@@ -27,7 +27,7 @@ I hope this trend does not continue because it was very helpful in alerting me i
 
 # Algorithm Description
 
-**Binary Search Algorithm -** A sorting algorithm that repeatedly halves the search interval until the target variable is found at the middle index.  
+**Binary Search -** A search algorithm that repeatedly halves the search interval until the target variable is found at the middle index.  
 
 **Visual Examples**  
 Binary search being performed on an array that contains the target, [click](https://ds1-iiith.vlabs.ac.in/exp/unsorted-arrays/binary-search/images/binary_search_stepwise.png){:target="_blank"} to view   

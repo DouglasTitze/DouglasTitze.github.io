@@ -31,7 +31,7 @@ If you cannot develop an optimal solution within a reasonable amount of time, pr
 
 # Algorithm Description
 
-**Binary Search Algorithm -** A sorting algorithm that repeatedly halves the search interval until the target variable is found at the middle index.  
+**Binary Search Algorithm -** A search algorithm that repeatedly halves the search interval until the target variable is found at the middle index.  
   
 My implementation involves continuously halving the search interval until the left and right indices converge to the same index. 
 This is because multiple bad solutions may make it impossible to guarantee that the middle index is the first bad solution. 

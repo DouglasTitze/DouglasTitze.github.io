@@ -44,7 +44,7 @@ Once the binary search `while` loop exits, the closest value to the input timest
 
 **Hash Map (Dictionary) -** A data structure that maps keys to their values. Each key may only appear once.
 
-**Binary Search Algorithm -** A sorting algorithm that repeatedly halves the search interval until the target variable is found at the middle index.  
+**Binary Search -** A search algorithm that repeatedly halves the search interval until the target variable is found at the middle index.  
 
 **Visual Examples**  
 Illustration of key value pair mapping, [click](https://www.learnbyexample.org/wp-content/uploads/python/Dictionary-Key-Value-Pairs-Illustration.png){:target="_blank"} to view  
