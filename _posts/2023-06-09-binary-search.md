@@ -28,7 +28,7 @@ The middle pointer is initialized with the middle value between the left and rig
 Then check two conditions:
 *   If the value at the middle index is the target, `return mid`
 *   If the value is less than the target, it is impossible for the target to be in the left portion of the list; this is known because the left portion is always smaller than the value at the middle index. Therefore, the left pointer is updated to the middle index + 1.
-*   If neither of these conditions is true, then the value at the middle is greater than the target. Therefore, the right pointer is updated to the middle index - 1, for the inverse reason as the last condition.
+*   If neither of these conditions are true, then the value at the middle is greater than the target. Therefore, the right pointer is updated to the middle index - 1, for the inverse reason as the last condition.
 
 If the `while` loop exists, the target is not within the input list.
 
