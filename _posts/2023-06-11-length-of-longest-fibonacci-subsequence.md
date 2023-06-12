@@ -13,7 +13,7 @@ tags: [python, hash table, dynamic programming]
 30 minutes
 
 **Time Complexity**  
-O(n<sup>2</sup>log m) - The `n<sup>2</sup>` comes from the nested for loop, where `n` is the length of `arr,` and the `log m` comes from the `while` loop, where `m` is the maximum integer in `arr.`
+O(n<sup>2</sup>log m) - The `n`<sup>`2`</sup> comes from the nested for loop, where `n` is the length of `arr,` and the `log m` comes from the `while` loop, where `m` is the maximum integer in `arr.`
 
 **Space Complexity**  
 O(n) - The elements in `arr` are duplicated and placed into a set, resulting in the O(n) space complexity.
