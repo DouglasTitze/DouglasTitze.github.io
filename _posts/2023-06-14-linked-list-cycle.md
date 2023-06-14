@@ -13,7 +13,7 @@ tags: [python, linked list]
 2 minutes
 
 **Time Complexity**  
-O(n) - ALthough unknown, the entire list is iterated through until the cycle is found. If there is no cycle, the list is iterated through once, resulting in the O(n) time complexity.
+O(n) - Although unknown, the entire list is iterated through until the cycle is found. If there is no cycle, the list is iterated through once, resulting in the O(n) time complexity.
 
 **Space Complexity**  
 O(1) - The number of variables created is independent of n, resulting in the O(1) space complexity.
