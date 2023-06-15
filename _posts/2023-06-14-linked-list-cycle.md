@@ -29,9 +29,11 @@ Increment the fast pointer by two nodes and the slow by one, then check if they 
 
 If the `while` loop ever exists, there is a node that is None, which would be impossible to have in a linked list with a cycle; therefore, `return False`.
 
-## Algorithm Used
+## Algorithm and Data Structure Used
 
 **Fast and Slow Pointer (Floyd’s Tortoise and Hare Algorithm) -** A traversal method that utilizes two pointers originating at the head of the list. The slow pointer increments one node at a time, and the fast pointer increments faster (2,3... nodes at a time).
+
+**Linked List -** Similar to a list or an array, except the data allocated for the list is generated as each new node is added, meaning the memory for the entire list may not be in consecutive memory. A linked list can not be indexed and must be traversed using a pointer.
 
 **Visual Example**  
 GIF showing how the algorithm works, [click](https://cdn.emre.me/2019-10-23-tortoise-and-hare.gif){:target="_blank"} to view 
