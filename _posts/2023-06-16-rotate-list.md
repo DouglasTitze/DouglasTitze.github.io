@@ -76,7 +76,7 @@ class Solution:
         # Place the new_head into a variable
         new_head = new_tail.next
 
-        # Elminiate the connection between the new_tail and the new_head; to avoid a cycle
+        # Elminiate the connection between the new_tail and the new_head to avoid a cycle
         new_tail.next = None
 
         return new_head
