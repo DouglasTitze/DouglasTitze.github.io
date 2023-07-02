@@ -19,7 +19,7 @@ O(n) - Every time in the input list must be iterated over, resulting in the O(n)
 O(1) - The number of variables declared is constant and independent from the input list, resulting in the O(1) space complexity.
 
 **Runtime Beats**  
-99.9% of other submissions  
+99.90% of other submissions  
 
 **Memory Beats**  
 97.36% of other sumbissions  
