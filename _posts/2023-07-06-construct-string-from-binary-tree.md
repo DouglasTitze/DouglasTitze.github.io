@@ -13,10 +13,10 @@ tags: [python, string, binary tree]
 15 minutes
 
 **Time Complexity**  
-O(2<sup>n</sup>) - Every node and its children (even if null) are visited, resulting in an O(2<sup>n</sup>) growth rate.
+O(n) - Every node and its children are visited, resulting in the O(n) time complexity.
 
 **Space Complexity**  
-O(2<sup>n</sup>) - The output string has a factor of 2<sup>n</sup> elements, resulting in the O(2<sup>n</sup>) space complexity.
+O(n) - The output string has a factor of n elements, that factor is ignored since it is a constant and does not affect the growth rate, resulting in the O(n) space complexity.
 
 **Runtime Beats**  
 99.72% of other submissions  
