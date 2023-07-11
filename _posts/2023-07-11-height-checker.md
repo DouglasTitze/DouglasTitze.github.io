@@ -26,7 +26,7 @@ O(n) - The sorted array must be temporarily stored before zipping with the origi
 
 ## Explanation  
 
-The algorithm simultaneously increments through the sorted and input lists using the `zip' function. Then it increments the `differences` variable when the elements are not equal.
+The algorithm simultaneously increments through the sorted and input lists using the `zip` function. Then it increments the `differences` variable when the elements are not equal.
 
 ## Solution  
 
