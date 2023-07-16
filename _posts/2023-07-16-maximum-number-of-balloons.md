@@ -27,9 +27,9 @@ O(1) - Although a dictionary is declared, it will only ever contain five charact
 ## Explanation  
 The algorithm counts the frequency of each character and stores it in `char_counter.`    
 
-The algorithm then keeps track of the smallest frequency out of all the characters in "balon" because we can only make as many "balloon" strings as the smallest frequency permits. To accommodate for the double characters "o" and "l," we floor the frequency of their appearances by a factor of 2.  
+The algorithm then keeps track of the smallest frequency out of all the characters in "balon" because it can only make as many "balloon" strings as the smallest frequency permits. To accommodate for the double characters "o" and "l," floor the frequency of their appearances by a factor of 2.  
 
-Finally, we return the `count`.
+Finally, return the `count`.
 
 ## Solution  
 
