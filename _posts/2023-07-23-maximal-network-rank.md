@@ -1,6 +1,6 @@
 ---
 title: Maximal Network Rank
-date: 2023-07-20 00:00:00 -400
+date: 2023-07-23 00:00:00 -400
 categories: [Coding Questions, Medium]
 tags: [python, graph]
 ---
