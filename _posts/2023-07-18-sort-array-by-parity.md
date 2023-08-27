@@ -1,7 +1,7 @@
 ---
 title: Sort Array By Parity
 date: 2023-07-18 00:00:00 -400
-categories: [Coding Questions, easy]
+categories: [Coding Questions, Easy]
 tags: [python, array]
 ---
 
