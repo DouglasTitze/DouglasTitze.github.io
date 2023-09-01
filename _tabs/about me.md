@@ -16,16 +16,15 @@ In addition to my studies, I am also working as a 3D print lab technician at the
 
 My interest in computer science was sparked in high school when I attended my first coding boot camp, which, coincidentally, took place at the University of South Florida. Since then, I've been captivated by the field.    
   
-However, when I first recognized the potential for artificial intelligence to revolutionize our world, my passion blossomed.
-This was before the explosion of OpenAI and ChatGPT, but now I am pursuing my goals with even greater determination.
+Artificial intelligence has always been my go-to place in this field, even before the explosion of OpenAI and generative AI. Now, I am pursuing my goals with even greater determination.
 
 ## Feedback
 
-I welcome feedback and insights from **all** and would love to exchange ideas on how to advance in this field together.
+I welcome feedback and insights from **all** and would love to exchange ideas on advancing in this field.
 Let's connect on [LinkedIn](https://www.linkedin.com/in/douglas-titze/){:target="_blank"} and have a chat.
 
 Please explore my website and share your thoughts because I am excited to receive feedback and learn from others as I grow as a developer.
-Thank you for visiting my website, and I hope my experiences and progress can inspire you to take action toward your goals.
+Thank you for visiting my website and taking the time to view some of my solutions and explanations!
 
 ## Contact Information
 
