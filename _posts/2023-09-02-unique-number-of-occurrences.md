@@ -22,7 +22,7 @@ O(n) - In the worst case, every element in the input list will be stored twice, 
 99.39% of other submissions    
 
 ## Explanation  
-_The comments explain the program._
+_The comments explain the program_
 
 ## Data Structures Used  
 

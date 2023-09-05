@@ -25,7 +25,7 @@ O(n) - In the worst case, every element in the input list will be stored twice, 
 89.62% of other sumbissions  
 
 ## Explanation  
-_The comments explain the program._
+_The comments explain the program_
 
 ## Data Structures Used  
 
@@ -48,7 +48,7 @@ class Solution:
             startings.add(s)
             endings.add(e)
 
-        # Iterate through all ending cities, until one is not found within the starting citites set
+        # Iterate through all ending cities until one is not found within the starting cities set
         for e in endings:
             if e not in startings:
                 return e
