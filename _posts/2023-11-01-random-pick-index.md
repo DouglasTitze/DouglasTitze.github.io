@@ -16,7 +16,7 @@ tags: [python, hash table]
 O(n) - The program must initialize the hash table with the user input, resulting in the O(n) time complexity.
 
 **Space Complexity**  
-O(n) - The program must store all of the user's input numbers, resulting in the O(n) space complexity.
+O(n) - The program must store each of the user's input numbers, resulting in the O(n) space complexity.
 
 **Runtime Beats**  
 95.45% of other submissions  
@@ -25,7 +25,7 @@ O(n) - The program must store all of the user's input numbers, resulting in the 
 85.52% of other sumbissions  
 
 ## Explanation  
-To decrease the time complexity of each call of the method `pick` the program initializes a dictionary of `target : indicie` pairs. This allows for quick access to the indices where `target` only leaivng a random selection of an index, which is an O(1) operation, making `pick` take O(1). 
+To decrease the time complexity of each call of the method `pick` the program initializes a dictionary of `target : [indices]` pairs. This allows for quick access to the indices where `target` only leaivng a random selection of an index, which is an O(1) operation, making `pick` take O(1). 
 
 ## Data Structure Used  
 
@@ -43,6 +43,7 @@ class Solution:
     def __init__(self, nums: List[int]):
         self.nums = {}
         
+        # Populate the nums dict with (num : [indices]) pairs
         for i,n in enumerate(nums):
             if n not in self.nums:
                 self.nums[n] = [i]
@@ -50,5 +51,7 @@ class Solution:
                 self.nums[n].append(i)
 
     def pick(self, target: int) -> int:
+        
+        # Choice a random index out of the retrieved indices for the target number
         return random.choice(self.nums[target])
 ```
