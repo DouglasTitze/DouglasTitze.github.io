@@ -29,7 +29,7 @@ O(n) - Each value at every node must be stored, resulting in the O(n) space comp
 
 ## Data Structures Used  
 
-**Tree -** A hierarchical data structure where each data point is a node and can have childen and/or parent nodes connected to it.
+**Tree -** A hierarchical data structure where each data point is a node and can have child nodes and/or a parent node connected to it.
 
 **Queue -** A container that holds elements and follows the First In First Out (FIFO) principle, only allowing removal from the front of the container and additions to the back. 
 
@@ -53,22 +53,34 @@ from collections import deque
 
 class Solution:
     def levelOrder(self, root: 'Node') -> List[List[int]]:
+
+        # Exit if the input is empty
         if root == [] or root == None: return []
         
+        # Intialize the queue and levels output list
         que = deque()
         que.append(root)
-
         levels = []
 
+        # Iterate through the queue until it is empty
         while que:
+
+            # Intialize the current levels list
             curLevel = []
+
+            # Iterate through ONLY the current number of elements in the queue
             for _ in range(len(que)):
+
+                # Extract the current node and add its value to the curLevel list
                 curNode = que.popleft()
                 curLevel.append(curNode.val)
 
+                # Add all the children of the current node to the queue, UNLESS the child is None
                 for child in curNode.children:
                     if child != None:
                         que.append(child)
+
+            # Append all the current level's values to the output list
             levels.append(curLevel)
 
         return levels
