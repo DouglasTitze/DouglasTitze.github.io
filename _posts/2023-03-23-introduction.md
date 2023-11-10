@@ -8,9 +8,9 @@ comments: false
 
 ## Welcome to My Website
 
-This is a space for me to track my progress as I work towards becoming an AI developer. 
-One of the main features of my website is my coding challenge, where I complete a coding problem near-daily, share the solution, the time spent creating the solution, and provide a high-level explanation of the answer and the algorithm/data structures used.
-By doing so, I hold myself accountable, stay motivated, and reinforce what I learned while creating solutions.  
+This is a space for me to track my progress as I work towards becoming a software developer. 
+One of the main _"features"_ of my website is my coding challenges, where when I complete a LeetCode problem, I share the solution, time spent, time + space complexities, algorithm/data structures used, and a high-level explanation of the answer.  
+By doing so, I hold myself accountable, stay motivated, and reinforce what I learned while creating each solution.  
 
 ## My Goal
 
