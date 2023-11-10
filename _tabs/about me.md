@@ -9,21 +9,25 @@ comments: false
 
 ## Hello!
 
-My name is Douglas Titze, and I am currently studying computer science at the University of South Florida.
-In addition to my studies, I am also working as a 3D print lab technician at the university.  
+Hello I am Douglas Titze!  
+Here are some quick facts about me:
+* Senior computer science major at the University of South Florida (USF)
+* 3D print lab technician at USF
+* Love to solve intricate problems using programming
+* Always hungry to learn more algorithmic knowledge
+* Began programming at the age of 14 (7 years ago!)
 
 ## My Passion
 
-My interest in computer science was sparked in high school when I attended my first coding boot camp, which, coincidentally, took place at the University of South Florida. Since then, I've been captivated by the field.    
-  
-Artificial intelligence has always been my go-to place in this field, even before the explosion of OpenAI and generative AI. Now, I am pursuing my goals with even greater determination.
+My interest in computer science was sparked in high school when I attended my first coding boot camp, which, coincidentally, took place at the USF.  
+Since then, I've been captivated by the field. Although initially, I wanted to become a game developer, I found more interest in data structures and algorithms and their practical applications to real-world problems. 
 
 ## Feedback
 
 I welcome feedback and insights from **all** and would love to exchange ideas on advancing in this field.
 Let's connect on [LinkedIn](https://www.linkedin.com/in/douglas-titze/){:target="_blank"} and have a chat.
 
-Please explore my website and share your thoughts because I am excited to receive feedback and learn from others as I grow as a developer.
+Please explore my website and share your thoughts because I am excited to receive feedback and learn from others as I continue to grow as a developer.
 Thank you for visiting my website and taking the time to view some of my solutions and explanations!
 
 ## Contact Information
