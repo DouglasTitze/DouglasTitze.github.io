@@ -9,8 +9,7 @@ comments: false
 
 ## Hello!
 
-Hello I am Douglas Titze!  
-Here are some quick facts about me:
+Here are some quick facts about me, Douglas Titze!
 * Senior computer science major at the University of South Florida (USF)
 * 3D print lab technician at USF
 * Love to solve intricate problems using programming
