@@ -20,7 +20,7 @@ timezone: America/New_York
 
 title: Titze's Learning Logs # the main title
 
-tagline: A website containing snippets of my problem solving skills. Building stronger algorithmic skills by reinforcing what I've learned, and helping others do the same. # it will display as the sub-title
+tagline: Building stronger algorithmic skills by reinforcing what I've learned, and helping others do the same. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
