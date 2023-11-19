@@ -20,7 +20,7 @@ timezone: America/New_York
 
 title: Titze's Learning Logs # the main title
 
-tagline: A website containing snippets of my education. Building stronger coding skills by reinforcing what I've learned, and helping others do the same. # it will display as the sub-title
+tagline: A website containing snippets of my problem solving skills. Building stronger algorithmic skills by reinforcing what I've learned, and helping others do the same. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -79,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/D4E03AQFdNnE6DJnD4g/profile-displayphoto-shrink_200_200/0/1665192930840?e=1698278400&v=beta&t=QVtKxJoV-SzIofSl2sZS56_emLcL11tMWYsjZr50Ki4
+avatar: avatar.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
