@@ -10,11 +10,11 @@ comments: false
 ## Hello!
 
 Here are some quick facts about me, Douglas Titze!
-* Senior computer science major at the University of South Florida (USF)
-* 3D print lab technician at USF
+* Computer Science bachelor from the University of South Florida (USF)
+* A Visiting Research Scholar at USF Center for Advanced Medical Learning and Simulation (CAMLS)
 * Love to solve intricate problems using programming
 * Always hungry to learn more algorithmic knowledge
-* Began programming at the age of 14 (7 years ago!)
+* Began programming at the age of 14!
 
 ## My Passion
 

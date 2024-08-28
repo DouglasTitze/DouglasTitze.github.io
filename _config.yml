@@ -18,7 +18,7 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Titze's Learning Logs # the main title
+title: Leet Code Learning Logs # the main title
 
 tagline: Building stronger algorithmic skills by reinforcing what I've learned, and helping others do the same. # it will display as the sub-title
 
